@@ -2,6 +2,10 @@
 name = "zig-wraper"
 version = "0.1.0"
 edition = "2021"
+authors = ["Nick Cardin <nick@cardin.email>"]
+repository = "https://github.com/nacardin/zig-wrapper-rs"
+description = "Wrapper for `zig cc` with logic to correcting args."
+license = "MIT"
 
 [[bin]]
 name = "zig-cc"
